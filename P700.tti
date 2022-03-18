@@ -1,9 +1,9 @@
 DE,Description goes here
 DS,inserter
-SP,C:\Users\ryang\OneDrive - Ryan Ginnelly\Documents\GitHub\PRESFAX\P101.tti
+SP,C:\Users\ryang\OneDrive - Ryan Ginnelly\Documents\GitHub\PRESFAX\P700.tti
 PN,70000
 SC,0000
-PS,XXX0
+PS,8000
 CT,8,T
 RE,0
 OL,0,P700    PRESFAX mpp             %H:%M.%S
