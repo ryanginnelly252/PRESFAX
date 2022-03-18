@@ -1,7 +1,7 @@
 DE,Description goes here
 DS,inserter
 SP,C:\Users\ryang\OneDrive - Ryan Ginnelly\Documents\GitHub\PRESFAX\P700.tti
-PN,10001
+PN,70001
 SC,0001
 PS,8010
 CT,8,T
@@ -27,8 +27,8 @@ OL,19,B
 OL,20,D]     GLOW COST SCHEDULING....         
 OL,22,D]MG       Coming soon: 755             
 OL,24, AThis Page BONE Netwrk CNMPTV FCEEFAX  
-FL,101,102,180,200,8ff,8ff
-PN,10002
+FL,700,701,702,100,8ff,8ff
+PN,70002
 SC,0002
 PS,8000
 CT,8,T
@@ -54,8 +54,8 @@ OL,19,B
 OL,20,D]GCEEFAX: NATHANMEDIASERVICES.CO.UK    
 OL,22,D]MG       CEEFAX ON P100....           
 OL,24, AThis Page BONE Netwrk CNMPTV FCEEFAX  
-FL,101,102,180,200,8ff,8ff
-PN,10003
+FL,700,701,702,100,8ff,8ff
+PN,70003
 SC,0003
 PS,8000
 CT,8,T
@@ -81,8 +81,8 @@ OL,19,B
 OL,20,D]GCONTACT TELEVISION PROVIDER IF....   
 OL,22,D]MG       INDEX IS ON 100.....         
 OL,24, AThis Page BONE Netwrk CNMPTV FCEEFAX  
-FL,101,102,180,200,8ff,8ff
-PN,10004
+FL,700,701,702,100,8ff,8ff
+PN,70004
 SC,0004
 PS,8000
 CT,8,T
@@ -108,4 +108,4 @@ OL,19,B
 OL,20,D]GYOU ARE SEEING THIS ON TELETEXT...   
 OL,22,D]MG       INDEX IS ON 100.....         
 OL,24, AThis Page BONE Netwrk CNMPTV FCEEFAX  
-FL,101,102,180,200,8ff,8ff
+FL,700,701,702,100,8ff,8ff
