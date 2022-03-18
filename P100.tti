@@ -1,0 +1,19 @@
+DE,Description goes here
+DS,inserter
+SP,C:\Users\ryang\OneDrive - Ryan Ginnelly\Documents\GitHub\PRESFAX\P101.tti
+PN,70000
+SC,0000
+PS,XXX0
+CT,8,T
+RE,0
+OL,0,P700    PRESFAX mpp             %H:%M.%S
+OL,1,T]S|,4|,dh<, 8,                        \
+OL,2,T]S,%p6j5  up                        \
+OL,3,T]S  )0j7#  j  CPRESFAX              \
+OL,4,T]S/  / **-, ,.                   SCBAR\
+OL,6, Index page                             
+OL,8, 701 ONE Schedule                       
+OL,9, 702 NMP Television                     
+OL,23, For internal use only....              
+OL,24, AONE  BNMP Television  CCeefax D NEWS  
+FL,701,702,100,101,8ff,8ff
