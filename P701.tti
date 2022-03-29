@@ -11,9 +11,23 @@ OL,1,T]S|,4|,dh<, 8,                        \
 OL,2,T]S,%p6j5  up                        \
 OL,3,T]S  )0j7#  j  CONE TELEVISION       \
 OL,4,T]S/  / **-, ,.                   SCBAR\
-OL,5, Schedule 18.03.22                      
+OL,5, Schedule 29.03.22 & 30.03.22           
 OL,6, TIME  PROGRAM                EPISODE   
+OL,7, 2200  KILLINASKULLY          S3E1 (NP) 
+OL,8, 2230  FATHER TED             S2E1      
+OL,9, 2300  News Check-Up          NULL      
+OL,10, 2310  EDUCATING YORKSHRE     S1E5      
+OL,11, 2345A OPT OUT - IDENT & WEATHER        
+OL,12, 2350CBOPT IN                 NULL      
+OL,13, 2350  Can't Pay? We'll tak.. S4E5      
+OL,14, 0000  Closedown - OPT OUT    NULL      
+OL,15, 0600  BBC Breakfast          NULL      
+OL,16, 0800  Top of the Pops        199?      
+OL,17, 0830  RTE News Chnl Opt in             
+OL,18, 1220  The Simpsons (DOUBLE)  S5E5 & E6 
+OL,19, 1320  Pages from Ceefax                
 OL,21, (CAP) = Program Captured, may have ADs 
+OL,22, (NP) = NETWORK PREMIERE                
 OL,23, For internal use only....              
 OL,24, AONE  BNMP Television  CCeefax D NEWS  
 FL,701,702,100,101,8ff,8ff
