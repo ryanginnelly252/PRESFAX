@@ -13,19 +13,13 @@ OL,3,T]S  )0j7#  j  CONE TELEVISION       \
 OL,4,T]S/  / **-, ,.                   SCBAR\
 OL,5, Schedule 29.03.22 & 30.03.22           
 OL,6, TIME  PROGRAM                EPISODE   
-OL,7, 2200  KILLINASKULLY          S3E1 (NP) 
-OL,8, 2230  FATHER TED             S2E1      
-OL,9, 2300  News Check-Up          NULL      
-OL,10, 2310  EDUCATING YORKSHRE     S1E5      
-OL,11, 2345A OPT OUT - IDENT & WEATHER        
-OL,12, 2350CBOPT IN                 NULL      
-OL,13, 2350  Can't Pay? We'll tak.. S4E5      
-OL,14, 0000  Closedown - OPT OUT    NULL      
-OL,15, 0600  BBC Breakfast          NULL      
-OL,16, 0800  Top of the Pops        199?      
-OL,17, 0830  RTE News Chnl Opt in             
-OL,18, 1220  The Simpsons (DOUBLE)  S5E5 & E6 
-OL,19, 1320  Pages from Ceefax                
+OL,7, 2100  KILLINASKULLY          S3E4 (NP) 
+OL,8, 2???  THE HIDDEN RULES OF .. NULL      
+OL,9, 2???  THE IT CROWD           S1E4      
+OL,10, 2???  NETWORK IDENT          ----      
+OL,11, 2???  EDUCATING ESSEX        EP01 (NP) 
+OL,13,   ADVERTS/PROMOS WILL AIR.....         
+OL,19,         CBAR UPLINK - EXPECT BREAKDOWN 
 OL,21, (CAP) = Program Captured, may have ADs 
 OL,22, (NP) = NETWORK PREMIERE                
 OL,23, For internal use only....              
