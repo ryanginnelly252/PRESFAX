@@ -7,147 +7,125 @@ PS,8002
 CT,8,T
 RE,0
 OL,0,                                        
-OL,1,                                       \
-OL,2,                                       \
-OL,3,                                       \
-OL,4,                                       \
-OL,5,                                       \
-OL,6,                                       \
-OL,7,                                       \
-OL,8,                                       \
-OL,9,                                       \
-OL,10,S                                      \
-OL,11,S                                      \
-OL,12,S                                      \
-OL,13,S                                      \
-OL,14,S                                      \
-OL,15,S                                      \
-OL,16,S                                      \
-OL,17,S                                      \
-OL,18,S                                      \
-OL,19,MKKSubtitles are not available on thisJJ
-OL,21,                                       \
-OL,22,                                       \
-OL,23,                                       \
-OL,24,                                       \
+OL,4,T                                       
+OL,5,T                                       
+OL,6,T                                       
+OL,7,T                                       
+OL,8,T                                       
+OL,9,T             `<,$                      
+OL,10,T    j?/o0/o?/x>/%  `>/m4 u   ///    
+OL,11,T    j5 z5 j5hpp      k0+t  pp0    
+OL,12,T    j73  j5*w##      z% +t ##!    
+OL,13,T    j5"ot j5 +}|4  *}px'   + |||    
+OL,14,T                     #                 
+OL,15,T                                       
+OL,16,T                                       
+OL,17,T                                       
+OL,18,T                                       
+OL,19,T                                       
+OL,20,Programs are fully subtitled on the fol-
+OL,21,lowing channels:                        
+OL,22,RTE1 - AERTEL 888                       
 FL,100,100,100,100,8ff,8ff
 PN,88802
 SC,0002
 PS,8000
 CT,8,T
 RE,0
-OL,0,        wxTED New page          %H:%M.%S
-OL,1,                                       \
-OL,2,                                       \
-OL,3,                                       \
-OL,4,                                       \
-OL,5,                                       \
-OL,6,                                       \
-OL,7,                                       \
-OL,8,                                       \
-OL,9,                                       \
-OL,10,S                                      \
-OL,11,S                                      \
-OL,12,S                                      \
-OL,13,S                                      \
-OL,14,S                                      \
-OL,15,S                                      \
-OL,16,S                                      \
-OL,17,S                                      \
-OL,18,S                                      \
-OL,19,MKKChannel due to software and HardwarJJ
-OL,21,                                       \
-OL,22,                                       \
-OL,23,                                       \
-OL,24,                                       \
+OL,0,R                                       
+OL,1,R                                       
+OL,2,R                                       
+OL,3,R                                       
+OL,4,R                                       
+OL,5,R                                       
+OL,6,R                                       
+OL,7,R                         o??/o5       
+OL,8,R                         b15j5       
+OL,9,R                         ~}}|~5       
+OL,10,R                `ppp  `pp0             
+OL,11,R      |||th||||4gy|| ho4            
+OL,12,R       "7#k7#i# #  #!`5            
+OL,13,R      px% j5 }||   `|?!            
+OL,14,R      +1  j5 ou    `'              
+OL,15,R       "ot j5 "/}|~ j5            
+OL,16,R                                       
+OL,17,R                                       
+OL,18,R                                       
+OL,20,Programs are fully subtitled on the fol-
+OL,21,lowing channels:                        
+OL,22,RTE2 - AERTEL 888                       
 FL,100,100,100,100,8ff,8ff
 PN,88803
 SC,0003
 PS,8000
 CT,8,T
 RE,0
-OL,0,        wxTED New page          %H:%M.%S
-OL,1,                                       \
-OL,2,                                       \
-OL,3,                                       \
-OL,4,                                       \
-OL,5,                                       \
-OL,6,                                       \
-OL,7,                                       \
-OL,8,                                       \
-OL,9,                                       \
-OL,10,S                                      \
-OL,11,S                                      \
-OL,12,S                                      \
-OL,13,S                                      \
-OL,14,S                                      \
-OL,15,S                                      \
-OL,16,S                                      \
-OL,17,S                                      \
-OL,18,S                                      \
-OL,19,MKK-e limitations. We apologise in....JJ
-OL,21,                                       \
-OL,22,                                       \
-OL,23,                                       \
-OL,24,                                       \
+OL,0,                                        
+OL,5,Q
+OL,6,Q
+OL,7,Q///o?//o///o
+OL,8,Q?#      +o5    ?!    "o?!     "+
+OL,9,Q'          o5           "7         *
+OL,10,Q7`$#)d       5     pp     ?    |}0   k
+OL,11,Q!2 6 `)0`$##0     ~u    %   j=   "
+OL,12,Q 5dy~-!j4,,,5                      
+OL,13,Q0e*9k `$"d `%         0   h||||||||
+OL,14,Qu"d0p,!   "! 4        u    o'+
+OL,15,Q4          z5        4         "
+OL,16,Qt0      `~5        t0      `x
+OL,17,Q||px|~upppppppp}|pp|~
+OL,18,Q
+OL,19,Q
+OL,20,Programs are fully subtitled on the fol-
+OL,21,lowing channels:                        
+OL,22, VM1 - DIGITAL & TTX PG 888             
 FL,100,100,100,100,8ff,8ff
 PN,88804
 SC,0004
 PS,8000
 CT,8,T
 RE,0
-OL,0,        wxTED New page          %H:%M.%S
-OL,1,                                       \
-OL,2,                                       \
-OL,3,                                       \
-OL,4,                                       \
-OL,5,                                       \
-OL,6,                                       \
-OL,7,                                       \
-OL,8,                                       \
-OL,9,                                       \
-OL,10,S                                      \
-OL,11,S                                      \
-OL,12,S                                      \
-OL,13,S                                      \
-OL,14,S                                      \
-OL,15,S                                      \
-OL,16,S                                      \
-OL,17,S                                      \
-OL,18,S                                      \
-OL,19,MKK..Advance to all viewers.          JJ
-OL,21,                                       \
-OL,22,                                       \
-OL,23,                                       \
-OL,24,                                       \
+OL,0,                                        
+OL,6,W                                       
+OL,7,Wj5j5
+OL,8,Wj7########k?'###/5j/#! k5
+OL,9,Wj5       `7       o5j?!    j5
+OL,10,Wj  7  xtpp5j7  x5 j5
+OL,11,Wj  5 j/////o5j  z5 j5
+OL,12,Wj  5 j     j5j7  ###! "#5
+OL,13,Wj  u  o7  z5j5         5
+OL,14,Wj  4  ##!  x5j5 j5
+OL,15,Wj  |p   p~5j5 j5
+OL,16,Wj5j5
+OL,17,W"######################!"#############!
+OL,18,W                                       
+OL,20,Programs are fully subtitled on the fol-
+OL,21,lowing channels:                        
+OL,22, TG4 - Teletext Page 888                
 FL,100,100,100,100,8ff,8ff
 PN,88805
 SC,0005
 PS,8000
 CT,8,T
 RE,0
-OL,0,        wxTED New page          %H:%M.%S
-OL,1,                                       \
-OL,2,                                       \
-OL,3,                                       \
-OL,4,                                       \
-OL,5,                                       \
-OL,6,                                       \
-OL,7,                                       \
-OL,8,                                       \
-OL,9,                                       \
-OL,10,S                                      \
-OL,11,S                                      \
-OL,12,S                                      \
-OL,13,S                                      \
-OL,14,S                                      \
-OL,15,S                                      \
-OL,16,S                                      \
-OL,17,S                                      \
-OL,18,S                                      \
-OL,19,MKKThis is ONE Television on P888.....JJ
-OL,21,                                       \
-OL,22,                                       \
-OL,23,                                       \
-OL,24,                                       \
+OL,0,                                        
+OL,4,W                                       
+OL,5,W                                       
+OL,6,W                                       
+OL,7,W                                       
+OL,8,Wj5    j5
+OL,9,Wj5    j5
+OL,10,Wj5`p0*5   `p k  j' ppj5
+OL,11,Wj5*/%`5   */!z  j5 ~5
+OL,12,Wj5`pp"5   `p0+  j5 5
+OL,13,Wj5*// 5   */%`  j} +//k5
+OL,14,Wj}|||~5  pppp~  j}tpx~5
+OL,15,Wj5    j5
+OL,16,W"##########!  ###########  "##########!
+OL,17,W                                       
+OL,20,Programs are fully subtitled on the fol-
+OL,21,lowing channels:                        
+OL,22,BBC1 - 888                              
+OL,23,BBC2 - 888                              
+OL,24,BBC4 - 888                              
 FL,100,100,100,100,8ff,8ff
