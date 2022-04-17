@@ -6,14 +6,148 @@ SC,0001
 PS,8002
 CT,8,T
 RE,0
-OL,0,        wxTED New page          %H:%M.%S
-OL,19, MKK ONE Television on Channel 33     J 
-OL,20,JJ                                      
+OL,0,                                        
+OL,1,                                       \
+OL,2,                                       \
+OL,3,                                       \
+OL,4,                                       \
+OL,5,                                       \
+OL,6,                                       \
+OL,7,                                       \
+OL,8,                                       \
+OL,9,                                       \
+OL,10,S                                      \
+OL,11,S                                      \
+OL,12,S                                      \
+OL,13,S                                      \
+OL,14,S                                      \
+OL,15,S                                      \
+OL,16,S                                      \
+OL,17,S                                      \
+OL,18,S                                      \
+OL,19,MKKSubtitles are not available on thisJJ
+OL,21,                                       \
+OL,22,                                       \
+OL,23,                                       \
+OL,24,                                       \
+FL,100,100,100,100,8ff,8ff
 PN,88802
 SC,0002
-PS,XXX2
+PS,8000
 CT,8,T
 RE,0
-OL,0,                                        
-OL,19, MKK          UHF Band IV.....        JJ
-OL,20,JJ                                      
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,                                       \
+OL,2,                                       \
+OL,3,                                       \
+OL,4,                                       \
+OL,5,                                       \
+OL,6,                                       \
+OL,7,                                       \
+OL,8,                                       \
+OL,9,                                       \
+OL,10,S                                      \
+OL,11,S                                      \
+OL,12,S                                      \
+OL,13,S                                      \
+OL,14,S                                      \
+OL,15,S                                      \
+OL,16,S                                      \
+OL,17,S                                      \
+OL,18,S                                      \
+OL,19,MKKChannel due to software and HardwarJJ
+OL,21,                                       \
+OL,22,                                       \
+OL,23,                                       \
+OL,24,                                       \
+FL,100,100,100,100,8ff,8ff
+PN,88803
+SC,0003
+PS,8000
+CT,8,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,                                       \
+OL,2,                                       \
+OL,3,                                       \
+OL,4,                                       \
+OL,5,                                       \
+OL,6,                                       \
+OL,7,                                       \
+OL,8,                                       \
+OL,9,                                       \
+OL,10,S                                      \
+OL,11,S                                      \
+OL,12,S                                      \
+OL,13,S                                      \
+OL,14,S                                      \
+OL,15,S                                      \
+OL,16,S                                      \
+OL,17,S                                      \
+OL,18,S                                      \
+OL,19,MKK-e limitations. We apologise in....JJ
+OL,21,                                       \
+OL,22,                                       \
+OL,23,                                       \
+OL,24,                                       \
+FL,100,100,100,100,8ff,8ff
+PN,88804
+SC,0004
+PS,8000
+CT,8,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,                                       \
+OL,2,                                       \
+OL,3,                                       \
+OL,4,                                       \
+OL,5,                                       \
+OL,6,                                       \
+OL,7,                                       \
+OL,8,                                       \
+OL,9,                                       \
+OL,10,S                                      \
+OL,11,S                                      \
+OL,12,S                                      \
+OL,13,S                                      \
+OL,14,S                                      \
+OL,15,S                                      \
+OL,16,S                                      \
+OL,17,S                                      \
+OL,18,S                                      \
+OL,19,MKK..Advance to all viewers.          JJ
+OL,21,                                       \
+OL,22,                                       \
+OL,23,                                       \
+OL,24,                                       \
+FL,100,100,100,100,8ff,8ff
+PN,88805
+SC,0005
+PS,8000
+CT,8,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,                                       \
+OL,2,                                       \
+OL,3,                                       \
+OL,4,                                       \
+OL,5,                                       \
+OL,6,                                       \
+OL,7,                                       \
+OL,8,                                       \
+OL,9,                                       \
+OL,10,S                                      \
+OL,11,S                                      \
+OL,12,S                                      \
+OL,13,S                                      \
+OL,14,S                                      \
+OL,15,S                                      \
+OL,16,S                                      \
+OL,17,S                                      \
+OL,18,S                                      \
+OL,19,MKKThis is ONE Television on P888.....JJ
+OL,21,                                       \
+OL,22,                                       \
+OL,23,                                       \
+OL,24,                                       \
+FL,100,100,100,100,8ff,8ff
