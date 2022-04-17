@@ -11,9 +11,9 @@ OL,19, MKK ONE Television on Channel 33     J
 OL,20,JJ                                      
 PN,88802
 SC,0002
-PS,8000
+PS,XXX2
 CT,8,T
 RE,0
-OL,0,        wxTED New page          %H:%M.%S
-OL,19, MKK This is ONE on UHF 33!! CBAR     J 
+OL,0,                                        
+OL,19, MKK          UHF Band IV.....        JJ
 OL,20,JJ                                      
