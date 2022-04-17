@@ -1,8 +1,19 @@
 DE,
-CT,8,T
-PS,8002
+DS,inserter
+SP,C:\Users\ryang\OneDrive - Ryan Ginnelly\Documents\GitHub\PRESFAX\P888.tti
 PN,88801
 SC,0001
+PS,8002
+CT,8,T
 RE,0
-OL,19, MKK ONE Television on Channel 33     JJ
+OL,0,        wxTED New page          %H:%M.%S
+OL,19, MKK ONE Television on Channel 33     J 
+OL,20,JJ                                      
+PN,88802
+SC,0002
+PS,8000
+CT,8,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,19, MKK This is ONE on UHF 33!! CBAR     J 
 OL,20,JJ                                      
