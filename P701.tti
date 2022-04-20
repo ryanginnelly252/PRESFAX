@@ -11,11 +11,7 @@ OL,1,T]S|,4|,dh<, 8,                        \
 OL,2,T]S,%p6j5  up                        \
 OL,3,T]S  )0j7#  j  CONE TELEVISION       \
 OL,4,T]S/  / **-, ,.                   SCBAR\
-OL,5, SCHEDULE FOR null                      
-OL,6, TIME  PROGRAM                EPISODE   
-OL,19,         CBAR UPLINK - EXPECT BREAKDOWN 
-OL,21, (CAP) = Program Captured, may have ADs 
-OL,22, (NP) = NETWORK PREMIERE                
-OL,23, For internal use only....              
+OL,5, PLEASE SWITCH TO THE NEW SVN REPOSITORY
+OL,6, CONTACT RYAN G FOR ACCESS.             
 OL,24, AONE  BNMP Television  CCeefax D NEWS  
 FL,701,702,100,101,8ff,8ff
